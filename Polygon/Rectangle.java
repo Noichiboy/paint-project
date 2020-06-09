@@ -1,0 +1,4 @@
+class Rectangle extends Figure {
+	
+	
+}

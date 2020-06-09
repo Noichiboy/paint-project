@@ -1,0 +1,4 @@
+class Triangle extends Figure {
+	
+	
+}
